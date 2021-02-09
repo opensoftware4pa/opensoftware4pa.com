@@ -1,4 +1,4 @@
--![OpenSoftware4pa.com](https://github.com/opensoftware4pa/opensoftware4pa.com/blob/gh-pages/OS4PA_logo.png?raw=true "OpenSoftware4pa.com"=250x250)
+-![OpenSoftware4pa.com](https://github.com/opensoftware4pa/opensoftware4pa.com/blob/gh-pages/OS4PA_logo.png?raw=true | width=300 )
 
 ## Welcome to Open Software for Public Administration website
 
