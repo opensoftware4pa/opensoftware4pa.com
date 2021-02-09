@@ -2,8 +2,6 @@
 
 The main goal of this project is to promote the use, development and spreading of open source software in public administration to achieve the following objectives:
 
-```markdown
-
 - Improve economic and productive efficiency.
 - Reuse of ideas and efforts.
 - Guarantee the transparency.
@@ -13,8 +11,6 @@ The main goal of this project is to promote the use, development and spreading o
 - Contribute to the development of the local software industry.
 - Guarantee the linguistic plurality of the regions.
 - Promote the use of open standards.
-
-```
 
 ### Support or Contact
 
