@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Open Software for Public Administration website
 
-You can use the [editor on GitHub](https://github.com/opensoftware4pa/opensoftware4pa.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The main goal of this project is to promote the use, development and spreading of open source software in public administration to achieve the following objectives:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Improve economic and productive efficiency.
+- Reuse of ideas and efforts.
+- Guarantee the transparency.
+- Contribute to the proportionality of public administrations with less budget and means.
+- Guarantee the independence of suppliers.
+- Ensure the continuity of the systems.
+- Contribute to the development of the local software industry.
+- Guarantee the linguistic plurality of the regions.
+- Promote the use of open standards.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opensoftware4pa/opensoftware4pa.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contact us at info at opensoftware4pa.com
