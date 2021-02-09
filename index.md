@@ -1,5 +1,5 @@
 -![OpenSoftware4pa.com](https://github.com/opensoftware4pa/opensoftware4pa.com/blob/gh-pages/OS4PA_logo.png?raw=true)
-![](https://github.com/opensoftware4pa/opensoftware4pa.com/blob/gh-pages/OS4PA_logo.png?raw=true | width=100)
+![](https://github.com/opensoftware4pa/opensoftware4pa.com/blob/gh-pages/OS4PA_logo.png | width=300)
 ## Welcome to Open Software for Public Administration website
 
 The main goal of this project is to promote the use, development and spreading of open source software in public administration to achieve the following objectives:
